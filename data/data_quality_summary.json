@@ -1,0 +1,13 @@
+{
+  "source_rows": 107,
+  "valid_rows": 90,
+  "invalid_or_unknown_rows": 17,
+  "valid_total_items": 2464.0,
+  "unique_brands_valid": 71,
+  "unique_parent_companies_valid": 61,
+  "missing_parent_rows": 17,
+  "cleanup_events": 3,
+  "cleanup_total_kg": 517.0,
+  "cleanup_total_sacks": 35.0,
+  "derived_category_note": "Derived Item Category is a transparent keyword-based grouping created for dashboard exploration; it is not a source field."
+}

@@ -1,0 +1,108 @@
+﻿Source Row,Brand Name,Parent Company,Item Description,Type Product,Type Material,Layers,Total Count,Is Valid?,Derived Item Category
+2,White Cap,Kenya Breweries Ltd,Beer can,FP,O,ML,2.0,Yes,Alcoholic beverages
+3,Tusker Lager,Kenya Breweries Ltd,Beer can,FP,O,ML,1.0,Yes,Alcoholic beverages
+4,Minute Maid,Coca Cola Limited,Plastic juice bottle,FP,PET,SL,8.0,Yes,Non-alcoholic beverages
+5,Club Soda,Highlands,Plastic juice bottle,FP,PET,SL,56.0,Yes,Non-alcoholic beverages
+6,Aquamist Water,Aquamist Water Company,Plastic water bottle,FP,PET,SL,41.0,Yes,Water bottles
+7,Joemak Leather Dye,Unidentified / missing,Plastic Bottle,HP,HDPE,ML,9.0,No,Other bottles
+8,Kangaroo Leather Dye,Kangaroo Brands Limited,Plastic Bottle,HP,HDPE,ML,8.0,Yes,Other bottles
+9,Dasani,The Coca-Cola Company,Plastic Bottle,FP,PET,SL,21.0,Yes,Other bottles
+10,Tuzo,Brookside Diary limited,Milk packet,FP,O,ML,3.0,Yes,Dairy packaging
+11,Unkown,Unbranded,Ciggarette lighters,SM,O,ML,18.0,Yes,Other / unclassified
+12,Sure,Innolatex Limited,Condoms,PC,O,SL,1.0,Yes,Other / unclassified
+13,Super Glue,Alteco Group Company,Glue packet,PM,O,ML,3.0,Yes,Food packaging
+14,Unknown,Unbranded,Cigarette butts,SM,O,ML,4.0,Yes,Other / unclassified
+15,Pallman,British American Tobacco,Cigarette pack,SM,O,ML,2.0,Yes,Other / unclassified
+16,Micro,Unidentified / missing,Marker pen,HP,PVC,ML,1.0,No,Other / unclassified
+17,Kai Kai,Unidentified / missing,Marker pen,HP,PVC,ML,1.0,No,Other / unclassified
+18,Tee Pee,Tee Pee Brush Maufactures,Writing pens,HP,PVC,ML,13.0,Yes,Other / unclassified
+19,Doliprane,Unidentified / missing,Medicine packet,PC,PP,ML,1.0,No,Food packaging
+20,Unknown,Unbranded,Syringes,PC,O,ML,7.0,Yes,Other / unclassified
+21,Lude,Unidentified / missing,Shoe Polish container,HP,O,ML,5.0,No,Other / unclassified
+22,Mio,Gitanes SRL,Ice- cream container,FP,LDPE,SL,1.0,Yes,Personal care
+23,Stripax,Unidentified / missing,Medicine packet,PC,PP,ML,1.0,No,Food packaging
+24,Unknown,Unbranded,Foam,FP,PS,SL,91.0,Yes,Other / unclassified
+25,Unknown,Unbranded,Sun glasses,PC,PP,ML,1.0,Yes,Other / unclassified
+26,Ebelin,DM,Medicine packet,PC,PP,ML,1.0,Yes,Food packaging
+27,Thermopak Kenya,Thermopak Limited,Plastic cups,FP,PS,SL,8.0,Yes,Other / unclassified
+28,Techpak Kenya,Techpak Industries Limited,Plastic cups,FP,PS,SL,5.0,Yes,Other / unclassified
+29,Naivas,Unidentified / missing,Sugar packet,FP,LDPE,SL,2.0,No,Food packaging
+30,Berti,Rimus Group,Milk packet,FP,O,ML,1.0,Yes,Dairy packaging
+31,Umoja,Umoja Africa,Flip flops,HP,O,ML,6.0,Yes,Other / unclassified
+32,Unknown,Unbranded,Flip flops,HP,O,ML,55.0,Yes,Other / unclassified
+33,Formula,Orang Tua,Toothbrush,PC,PP,ML,1.0,Yes,Personal care
+34,Ciptadent,Lion Wings Indonesia,Toothbrush,PC,PP,ML,1.0,Yes,Personal care
+35,Unkown,Unbranded,Toothbrushes,PC,PP,ML,10.0,Yes,Personal care
+36,Unknown,Unbranded,Straws,FP,PP,SL,27.0,Yes,Other / unclassified
+37,Unknown,Unbranded,Synthetic hair,PC,O,SL,20.0,Yes,Other / unclassified
+38,Casino,Royal Sanders BVBA,Shower gel container,PC,HDPE,ML,1.0,Yes,Other / unclassified
+39,Unkown,Unbranded,Plastic hair combs,HP,PVC,ML,3.0,Yes,Other / unclassified
+40,Unknown,Unbranded,Pipe,HP,PVC,ML,2.0,Yes,Other / unclassified
+41,Unknown,Unbranded,Brush,HP,PP,ML,1.0,Yes,Other / unclassified
+42,Milk Power,PI PADDEE FOOD LTD,Biscuit packaging,FP,PP,ML,2.0,Yes,Food packaging
+43,Unknown,Unbranded,Plastic pegs,HP,PVC,ML,8.0,Yes,Other / unclassified
+44,Unknown,Unbranded,Plastic bag,FP,PP,SL,1.0,Yes,Other / unclassified
+45,Unknown,Unbranded,Plastic bottle caps,FP,PP,ML,315.0,Yes,Other bottles
+46,Gatsby,Mandom Corporation,Facial product container,PC,HDPE,ML,1.0,Yes,Other / unclassified
+47,Unknown,Unbranded,Plastic ropes,FG,O,ML,35.0,Yes,Other / unclassified
+48,Unknown,Unbranded,Plastic lids,FP,PS,SL,47.0,Yes,Other / unclassified
+49,Kiwi,S. C. Johnson,Pen-knife handle,HP,HDPE,ML,1.0,Yes,Other / unclassified
+50,Unknown,Unbranded,Face mask,PC,O,ML,1.0,Yes,Other / unclassified
+51,Kenpoly,Kenpoly Manufacturers Ltd,Food container,FP,LDPE,ML,1.0,Yes,Food packaging
+52,Quencher,Highlands,Plastic water bottle,FP,PET,SL,8.0,Yes,Water bottles
+53,Asilia,Asilia Water,Plastic water bottle,FP,PET,SL,124.0,Yes,Water bottles
+54,Pride,Unidentified / missing,Plastic water bottle,FP,PET,SL,40.0,No,Water bottles
+55,Unknown,Unbranded,Plastic fragments,O,O,ML,800.0,Yes,Other / unclassified
+56,Steam,Kenafric Industries Limited,Energy drink bottle,FP,PET,ML,2.0,Yes,Other bottles
+57,Azam,Bakhresa Group,Energy drink bottle,FP,PET,ML,20.0,Yes,Other bottles
+58,Nature Cool,Unidentified / missing,Platic water bottles,FP,PET,SL,59.0,No,Water bottles
+59,Sprite,The Coca-Cola Company,Plastic juice bottle,FP,PET,ML,32.0,Yes,Non-alcoholic beverages
+60,Fire,Unidentified / missing,Energy drink bottle,FP,PET,ML,2.0,No,Other bottles
+61,Lala,Brookside dairy,Plastic milk bottle,FP,HDPE,ML,2.0,Yes,Dairy packaging
+62,Naivas,Unidentified / missing,Plastic water bottle,FP,PET,ML,3.0,No,Water bottles
+63,Unknown (Assorted),Unbranded,Plastic water bottles,FP,PET,ML,430.0,Yes,Water bottles
+64,Dalamere,Dalamere Dairy,Yoghurt bottle,FP,HDPE,ML,2.0,Yes,Dairy packaging
+65,Rayaan Ice,Rayyan Mineral Water Company,Plastic water bottle,FP,PET,SL,36.0,Yes,Water bottles
+66,Bamba,Maji Asili Company,Plastic water Bottle,FP,PET,SL,14.0,Yes,Water bottles
+67,Karigen,Deylin Ultimate Springs,Plastic water bottle,FP,PET,SL,15.0,Yes,Water bottles
+68,Salama Ice,Salama Ice Drinking Water,Plastic water bottle,FP,PET,SL,17.0,Yes,Water bottles
+69,Delight,Kenya Cooperative Creameries,Yoghurt bottle,FP,HDPE,ML,1.0,Yes,Dairy packaging
+70,Fresha,Fresha Dairy,Yoghurt bottle,FP,HDPE,ML,1.0,Yes,Dairy packaging
+71,Bio,Bio Foods Kenya,Milk Bottle,FP,HDPE,ML,1.0,Yes,Dairy packaging
+72,Gracias,Gracier Products,Yoghurt bottle,FP,HDPE,ML,1.0,Yes,Dairy packaging
+73,Lyons,Unilever,Ice cream container,FP,LDPE,SL,1.0,Yes,Personal care
+74,KDF,Unidentified / missing,Plastic water bottle,FP,PET,SL,2.0,No,Water bottles
+75,Drop,Drop Lake Mineral Water,Plastic water bottle,FP,PET,SL,6.0,Yes,Water bottles
+76,Capricorn,Unidentified / missing,Plastic water bottle,FP,PET,SL,9.0,No,Water bottles
+77,Fanta,The Coca-Cola Company,Plastic juice bottle,FP,PET,SL,19.0,Yes,Non-alcoholic beverages
+78,Marere,Marere Water,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+79,Milk Star,Carrefour,Biscuit wrapper,FP,PP,ML,1.0,Yes,Food packaging
+80,Unknown,Unbranded,Clothes hangers,HP,PS,ML,21.0,Yes,Other / unclassified
+81,Edemer,Nesfood Industries,Biscuit wrapper,FP,PP,ML,1.0,Yes,Food packaging
+82,Nawaa Ice,Nawaa Water,Plastic water bottle,FP,PET,SL,2.0,Yes,Water bottles
+83,Millie,Unidentified / missing,Plastic water bottle,FP,PET,SL,1.0,No,Water bottles
+84,Lenana,Lenana Industries,Plastic water bottle,FP,PET,SL,7.0,Yes,Water bottles
+85,Josmu Salem,Josmu Salem Production,Plastic water bottle,FP,PET,SL,4.0,Yes,Water bottles
+86,Aquille,Komax Investment Limited,Plastic water bottle,FP,PET,SL,7.0,Yes,Water bottles
+87,Solai Aqua,Dutch Water,Plastic water bottle,FP,PET,SL,6.0,Yes,Water bottles
+88,Aklilan Ice,Unidentified / missing,Plastic water bottle,FP,PET,SL,6.0,No,Water bottles
+89,Lango Water,Lango Industries,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+90,Grance Park,Unidentified / missing,Plastic water bottle,FP,PET,SL,2.0,No,Water bottles
+91,Keluarga,No Brand,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+92,Aquamist Oxyrich,Carrefour,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+93,Coke,The Coca-Cola Company,Plastic juice bottle,FP,PET,SL,7.0,Yes,Non-alcoholic beverages
+94,Island,Unidentified / missing,Plastic water bottle,FP,PET,SL,1.0,No,Water bottles
+95,Aquaclear,Aquaclear Mineral Drinking,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+96,DWL,Dutch Water Limited,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+97,Horizon,Horizon Mineral Water,Plastic water bottle,FP,PET,SL,3.0,Yes,Water bottles
+98,Waba,Waba Mineral Water,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+99,Mayers,Mayers Natural Spring Water,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+100,Amani Tiwi Beach,Amani Tiwi Beach Resort,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+101,Bamburi,Bamburi Beach Resort,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+102,Highlands,Plastic water bottle,Plastic water bottle,FP,PET,SL,3.0,Yes,Water bottles
+103,Ilara,Brookside Diary limited,Yoghurt bottle,FP,PET,SL,2.0,Yes,Dairy packaging
+104,Limuru Springs,Limuru Springs Mineral Water,Plastic water bottle,FP,PET,SL,4.0,Yes,Water bottles
+105,Atlas,Atlas Kenya Limited,Plastic water bottle,FP,PET,SL,2.0,Yes,Water bottles
+106,Halal Ice,Halal Ice Drinking Water,Plastic water bottle,FP,PET,SL,1.0,Yes,Water bottles
+107,Safari King,Carrefour,Plastic water bottle,FP,PET,SL,13.0,Yes,Water bottles
+108,Unknown,Unbranded,Fishing nets,FG,O,SL,3.0,Yes,Other / unclassified
